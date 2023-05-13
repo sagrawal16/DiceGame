@@ -1,2 +1,2 @@
-# DiceGame
- The Dicee Game
+# RockPaperScissors
+ Rock Paper Scissors

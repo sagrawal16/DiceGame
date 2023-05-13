@@ -64,7 +64,7 @@ let result='';
     {
       score.wins +=1;
     }
-  else if(result==='You lost')
+  else if(result==='You lose')
     {
     score.losses +=1;
     }
